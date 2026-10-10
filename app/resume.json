@@ -1,0 +1,132 @@
+{
+  "title": "AI Solutions Architect | Technical Delivery",
+  "summary": "AI solutions architect with 15+ years spanning software delivery, QA leadership, enterprise platforms, and automation. Founded a consultancy delivering 120+ GenAI applications for 30+ clients and led enterprise AI work at Assent that delivered $1.7M+ in savings and increased internal adoption from 47% to 97%. Combines hands-on production architecture with stakeholder coordination, resource and budget management, and a delivery background in banking systems.",
+  "skillGroups": [
+    {
+      "title": "Technical Delivery",
+      "items": [
+        "Project management",
+        "Resource allocation",
+        "Timeline and budget control",
+        "Business and engineering coordination"
+      ]
+    },
+    {
+      "title": "Production AI & Adoption",
+      "items": [
+        "GenAI deployment",
+        "RAG pipelines and integrations",
+        "Agentic workflows and MCP tools",
+        "AI adoption and governance controls"
+      ]
+    },
+    {
+      "title": "Quality & Team Leadership",
+      "items": [
+        "Agile / Scrum",
+        "QA team leadership",
+        "Sprint planning",
+        "Reliability and edge-case testing"
+      ]
+    },
+    {
+      "title": "Enterprise & Cloud Platforms",
+      "items": [
+        "Salesforce and Agentforce",
+        "Marketing Cloud Account Engagement (MCAE)",
+        "Google Cloud Platform (GCP)",
+        "AWS"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Sesh | AI Solutions",
+      "location": "Toronto, Ontario",
+      "role": "AI Solutions Architect",
+      "date": "Nov 2021 - Present",
+      "bullets": [
+        "Founded and led an AI consultancy delivering 120+ GenAI applications and 90+ AI chatbots for 30+ clients across multiple industries.",
+        "Owned solution architecture across engagements, translating ambiguous business requirements into scalable technical solutions.",
+        "Designed and deployed production RAG pipelines, agentic workflows, and custom automation tools.",
+        "Delivered hands-on workshops and free AI education through a 100+ member community.",
+        "Built marketing websites and landing pages integrated with automation backends for real-time interaction and conversion."
+      ]
+    },
+    {
+      "company": "Assent",
+      "location": "Canada",
+      "role": "AI Solutions Architect (Contract)",
+      "date": "Feb 2025 - Nov 2025",
+      "bullets": [
+        "Moved a multi-model AI stack using OpenAI, Anthropic, and Gemini from prototypes into production, with live RAG integrations and governance controls.",
+        "Increased internal AI adoption from 47% to 97% by embedding secure, scalable GenAI implementations into daily operations.",
+        "Delivered $1.7M+ in operational savings through deployed agentic workflows and custom MCP tools that replaced manual processes."
+      ]
+    },
+    {
+      "company": "Online Business Systems",
+      "location": "Toronto, Ontario",
+      "role": "Salesforce Consultant",
+      "date": "Jun 2024 - Nov 2024",
+      "bullets": [
+        "Implemented Agentforce and Marketing Cloud Account Engagement (MCAE) solutions for enterprise clients.",
+        "Aligned AI assistants, engagement programs, lead scoring models, and automated email workflows with sales and marketing teams."
+      ]
+    },
+    {
+      "company": "Globalization Partners",
+      "location": "Ontario, Canada",
+      "role": "Salesforce Manager",
+      "date": "Nov 2018 - Nov 2023",
+      "bullets": [
+        "Coordinated business stakeholders and engineering teams to support scalable, compliant solutions.",
+        "Managed and scaled a Salesforce organization with 1,000+ licenses across sales, marketing, and operations.",
+        "Built the company's first internal GenAI chatbot, GIA, introducing AI-assisted development and automation workflows."
+      ]
+    },
+    {
+      "company": "Praxis",
+      "location": "Mexico",
+      "role": "Project Manager (Software Factory)",
+      "date": "2012",
+      "bullets": [
+        "Managed software delivery projects for Scotiabank under Time & Materials (T&M) delivery models.",
+        "Owned resource allocation, timelines, and budget control, coordinating development, QA, and stakeholders."
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services (TCS)",
+      "location": "Peru",
+      "role": "QA Manager / Scrum Master",
+      "date": "2009 - 2010",
+      "client": "Client: Banco Cencosud",
+      "bullets": [
+        "Led a 7-person QA team as QA Manager and Scrum Master.",
+        "Owned sprint planning, delivery coordination, and QA strategy for banking systems."
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services (TCS)",
+      "location": "Mexico",
+      "role": "Senior QA Engineer",
+      "date": "2008 - 2009",
+      "client": "Client: Banco IXE",
+      "bullets": [
+        "Tested check reading and processing machines in high-compliance financial environments.",
+        "Validated accuracy, reliability, and edge-case handling for automated document processing systems."
+      ]
+    },
+    {
+      "company": "Community & Projects",
+      "location": "",
+      "role": "",
+      "date": "",
+      "bullets": [
+        "Founded a 100+ member AI community focused on practical AI education and adoption.",
+        "100+ AI and automation projects available on GitHub."
+      ],
+      "isStandalone": true
+    }
+  ]
+}
